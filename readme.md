@@ -3,7 +3,7 @@ Hacking Tools Tools to help you with ethical hacking, Social media hack, phone i
 
 DDOS attack tool!!
 
-(![image](https://raw.githubusercontent.com/hackoff-hacks/hackoff_tools/blob/main/hackoff.png)
+![image](https://raw.githubusercontent.com/hackoff-hacks/hackoff_tools/main/hackoff.png)
 
 
 YOUTUBE VIDEO COMING SOON!!
