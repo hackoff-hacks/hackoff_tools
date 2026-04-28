@@ -1,12 +1,20 @@
  
-Hacking Tools Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack • Powerful DDOS attack tool!!
+Hacking Tools Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack • Powerful 
+
+DDOS attack tool!!
+
 YOUTUBE VIDEO COMING SOON!!
+
 💻 Operating System Requirements
+
 Works on:
 
 Android (Termux)
+
 Linux (Debian-based systems)
+
 Unix-like systems
+
 📥 Installation
 
 Open your terminal and run:
