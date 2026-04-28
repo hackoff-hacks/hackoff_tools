@@ -13,16 +13,16 @@ echo -e '\033[31;40;1m
   github: https://github.com/hackoff-hacks
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m JB_editz
 '
-
-\e[37m[1]\e[36m Requests & Update        \e[37m[2]\e[36m Phishing Tool				
-\e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m Subscan			
-\e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
-\e[37m[7]\e[36m How to use ?	          \e[37m[8]\e[36m Uninstall the downloaded programs		
-\e[37m[9]\e[36m Ip Info	                  \e[37m[10]\e[36m dorks-eye
-\e[37m[11]\e[36m HackerPro                    \e[37m[12]\e[36m RED_HAWK
-\e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
-\e[37m[15]\e[36m BadMod	                  \e[37m[16]\e[36m Facebash
-\e[37m[17]\e[36m DARKARMY                     \e[37m[18]\e[36m AUTO-IP-CHANGER
+echo -e "\033[37m[1]\033[36m Requests & Update        \033[37m[2]\033[36m Phishing Tool
+\033[37m[3]\033[36m WebCam Hack              \033[37m[4]\033[36m Subscan
+\033[37m[5]\033[36m Gmail Bomber            \033[37m[6]\033[36m DDOS Attack
+\033[37m[7]\033[36m How to use ?            \033[37m[8]\033[36m Uninstall tools
+\033[37m[9]\033[36m Ip Info                 \033[37m[10]\033[36m dorks-eye
+\033[37m[11]\033[36m HackerPro              \033[37m[12]\033[36m RED_HAWK
+\033[37m[13]\033[36m VirusCrafter           \033[37m[14]\033[36m Info-Site
+\033[37m[15]\033[36m BadMod                \033[37m[16]\033[36m Facebash
+\033[37m[17]\033[36m DARKARMY              \033[37m[18]\033[36m AUTO-IP-CHANGER
+"
 
 '
 
