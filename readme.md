@@ -13,7 +13,7 @@ Open your terminal and run:
 
 pkg install git
 
-git clone https://github.com/hackoff-hacks/hackoff
+git clone https://github.com/hackoff-hacks/hackoff_tools
 
 cd hackoff
 
